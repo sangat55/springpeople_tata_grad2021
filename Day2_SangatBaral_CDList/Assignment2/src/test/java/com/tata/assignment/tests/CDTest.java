@@ -48,7 +48,7 @@ public class CDTest {
         cdList1.stream().sorted((o1,o2)->o1.getSinger().compareTo(o2.getSinger()));
         cdList2 = new ArrayList<>(cdList);
         CDApp cdApp = new CDApp();
-        cdList2 = Collections.sort(cdList,new CDSorter());
+        Collections.sort(cdList2,new CDSorter());
         assertEquals(cdList1,cdList2);
     }
 }
