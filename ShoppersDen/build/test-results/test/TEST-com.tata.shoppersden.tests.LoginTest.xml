@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.tata.shoppersden.tests.LoginTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-02-21T08:32:40" hostname="Sangat-BaralMacBook-Pro.local" time="0.069">
-  <properties/>
-  <testcase name="USER ID SHOULD NOT BE ZERO" classname="com.tata.shoppersden.tests.LoginTest" time="0.026"/>
-  <testcase name="Check if UserID and Password Valid" classname="com.tata.shoppersden.tests.LoginTest" time="0.027"/>
-  <testcase name="PASSWORD SHOULD NOT BE EMPTY" classname="com.tata.shoppersden.tests.LoginTest" time="0.014"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

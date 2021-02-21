@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.tata.shoppersden.tests.CategoryDaoTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-02-21T08:32:39" hostname="Sangat-BaralMacBook-Pro.local" time="0.38">
-  <properties/>
-  <testcase name="Category ID should be non zero" classname="com.tata.shoppersden.tests.CategoryDaoTest" time="0.295"/>
-  <testcase name="Category ID And Category Name should be unique" classname="com.tata.shoppersden.tests.CategoryDaoTest" time="0.055"/>
-  <testcase name="Category Name should not be empty" classname="com.tata.shoppersden.tests.CategoryDaoTest" time="0.029"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
