@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tata.shoppersden.tests.RegistrationTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2021-02-21T08:32:39" hostname="Sangat-BaralMacBook-Pro.local" time="0.257">
+  <properties/>
+  <testcase name="Customer Security Question should Not Be Empty" classname="com.tata.shoppersden.tests.RegistrationTest" time="0.025"/>
+  <testcase name="Customer Name should Not be Empty" classname="com.tata.shoppersden.tests.RegistrationTest" time="0.022"/>
+  <testcase name="Customer ID Should  Be Unique" classname="com.tata.shoppersden.tests.RegistrationTest" time="0.021"/>
+  <testcase name="Test Add Cart" classname="com.tata.shoppersden.tests.RegistrationTest" time="0.037"/>
+  <testcase name="Customer Phone should Be 10 digits" classname="com.tata.shoppersden.tests.RegistrationTest" time="0.017"/>
+  <testcase name="Customer Address should Not be Empty" classname="com.tata.shoppersden.tests.RegistrationTest" time="0.016"/>
+  <testcase name="Customer Email Address should Not be Empty" classname="com.tata.shoppersden.tests.RegistrationTest" time="0.017"/>
+  <testcase name="Check if User already Exists" classname="com.tata.shoppersden.tests.RegistrationTest" time="0.032"/>
+  <testcase name="Customer Security Answer should Not Be Empty" classname="com.tata.shoppersden.tests.RegistrationTest" time="0.018"/>
+  <testcase name="testRegisterNewUser()" classname="com.tata.shoppersden.tests.RegistrationTest" time="0.016"/>
+  <testcase name="Customer Password should Not Be Empty" classname="com.tata.shoppersden.tests.RegistrationTest" time="0.016"/>
+  <testcase name="Customer ID Should Not Be Negative" classname="com.tata.shoppersden.tests.RegistrationTest" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
